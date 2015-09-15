@@ -1,0 +1,18 @@
+h1 {
+	font-size: 40px;
+	color: #01BD72;
+	text-align: center;
+	border: 5px solid #FF81B7;
+	background-color: #4ffc7b;
+}
+
+td{
+	background-color: #4ffc7b;
+	color: #01BD72;
+	font-size: 30px;
+	border: 3px solid #FF81B7;
+}
+
+table{
+	border: 5px solid #FF81B7;
+}
